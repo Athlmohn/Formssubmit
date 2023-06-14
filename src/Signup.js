@@ -29,7 +29,7 @@ console.log(formData,'Result');
         <input type="text" placeholder='John' value={formData.firstName} name='firstName' onChange={(event)=>handleInputChange(event)}/>
 
 
-        <label htmlFor="">Last Name</label>
+        <label htmlFor="">Sur Name</label>
         <input type="text" placeholder='Doe'  value={formData.lastName} name='lastName' onChange={(event)=>handleInputChange(event)}/>
 
 
