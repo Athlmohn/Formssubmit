@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Formssubmit/static/css/main.a275294e.css",
+    "main.js": "/Formssubmit/static/js/main.9f4473b4.js",
+    "index.html": "/Formssubmit/index.html",
+    "main.a275294e.css.map": "/Formssubmit/static/css/main.a275294e.css.map",
+    "main.9f4473b4.js.map": "/Formssubmit/static/js/main.9f4473b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a275294e.css",
+    "static/js/main.9f4473b4.js"
+  ]
+}
